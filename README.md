@@ -1,9 +1,6 @@
 #Alex Watkinson - Senior Software Engineer
 
-###Bristol 
-###alexwatkinson@mail.com
-###[github](https://github.com/Almerc) 
-###+447500840625
+###Bristol || alexwatkinson@mail.com || [github](https://github.com/Almerc) || +447500840625
 
 Software engineer proficient at building services, features, testing, analysing and maintenance with over 4 years professional experience in an agile environment working on a range of production Clojure and Java platform solutions.  Relishes taking on new challenges, expanding and sharing knowledge by study, communities and conferences.
 Core:
