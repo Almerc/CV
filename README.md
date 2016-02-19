@@ -8,18 +8,22 @@ Core:
 ##Technical Skills
 
 ###Core:
+```
 •	Clojure 
 •	Java/JVM 
 •	Amazon Web Services
 •	SQL
 •	Git
 •	Emacs
-•	Eclipse	
+•	Eclipse
+```
 
 ###Learning:
+```
 •	ClojureScript
 •	JavaScript
 •	C#
+```
 
 ##Work History
 
